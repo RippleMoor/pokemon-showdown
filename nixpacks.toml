@@ -1,0 +1,5 @@
+[build]
+buildCommand = "echo 'Skipping build'"
+
+[start]
+startCommand = "node pokemon-showdown $PORT"
