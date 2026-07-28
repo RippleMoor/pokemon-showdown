@@ -1,7 +1,7 @@
 /**
  * Pokémon Showdown config file
  */
-exports.port = 8000;
+exports.port = 3000;
 exports.serverid = 'pokemon-showdown';
 
 // 允许所有人访问（你的私服）
