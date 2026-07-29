@@ -48,3 +48,5 @@ exports.autogenerate = false;
 
 // 使用精简版 HTML 渲染
 exports.lightweight = true;
+
+exports.bind = '0.0.0.0';
